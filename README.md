@@ -1,4 +1,4 @@
-# CTO Peer Mentoring Program: Module 3
+# CTO Mentoring Program: Module 3
 
 This Repository contains materials which cover the role of offensive security in organization. The fourth module focuses on most aspects of Offensive Security.
 
