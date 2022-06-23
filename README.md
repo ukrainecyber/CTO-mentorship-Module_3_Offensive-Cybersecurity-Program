@@ -1,9 +1,10 @@
 # CTO Mentoring Program: Module 3
 
-This Repository contains materials which cover the role of offensive security in organization. The fourth module focuses on most aspects of Offensive Security.
+The USAID Cybersecurity for Critical Infrastructure in Ukraine Activity created five repositories with materials developed for CTO mentorship program in 2021.
 
-This module consists of presentation with an introduction to the topic, availiable in English and Ukrainian versions.The additional materials content linked to the core topic and covered throught the Whitepapers: "Secrets of Offensive Security" and "An introduction to ODS Strategy", availiable in English.
+The third module of this program is dedicated to Offensive Cybersecurity and covers from the most basic offerings to the most mature aspects of cybersecurity.
 
-Materials on Offensive Cybersecurity Program developed as a part of CTO Mentorship Program.
+As any good military strategist or sports enthusiast can attest: the best defense is a good offense. Cybersecurity is no exception to this adage. So let’s take a closer look at what Offensive Security is, and how can it help an organization. 
+At its core, Offensive Security exists to identify issues before they are detected and utilized by external and malicious actors. The term Offensive Security is an umbrella term that covers several aspects of cybersecurity.  
 
-This publication was produced by the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity under Contract No. 72012120C00002 at the request of the United States Agency for International Development. This document is made possible by the support of the American people through the United States Agency for International Development. Its contents are the sole responsibility of the author or authors and do not necessarily reflect the views of USAID or the U.S. Government.
+These materials were prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity.
